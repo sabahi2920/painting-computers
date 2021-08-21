@@ -1,4 +1,5 @@
-Computers as Picasso of our times
+# Computers as Picasso of our times
+
 Aarushi Mohanty and Sabah Ibrahim
 
 Includes Final Project.ipynb and CS445_final. Both run Python 3.
